@@ -10,11 +10,11 @@ from telethon import __version__ as tver
 from AloneRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID,BOT_NAME,START_IMG
 
 PHOTO = [
-    "https://telegra.ph/file/d2a23fbe48129a7957887.jpg",
-    "https://telegra.ph/file/ddf30888de58d77911ee1.jpg",
-    "https://telegra.ph/file/268d66cad42dc92ec65ca.jpg",
-    "https://telegra.ph/file/13a0cbbff8f429e2c59ee.jpg",
-    "https://telegra.ph/file/bdfd86195221e979e6b20.jpg",
+    "https://te.legra.ph/file/d32916a895171a0ae0653.jpg",
+    "https://te.legra.ph/file/f3c2ae32308fbc89f570b.jpg",
+    "https://te.legra.ph/file/9270f2b5dc9207aebc12d.jpg",
+    "https://te.legra.ph/file/184c312979e174a9640f4.jpg",
+    "https://te.legra.ph/file/8a601822cf2d6b20633c1.jpg",
 ]
 
 Alone = [
@@ -54,7 +54,7 @@ async def restart(client, m: Message):
         START_IMG,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ 『[{BOT_NAME}](f"t.me/{BOT_USERNAME}")』**
    ━━━━━━━━━━━━━━━━━━━
-  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴀʟᴏɴᴇ](tg://user?id={OWNER_ID})
+  » **ᴍʏ ᴏᴡɴᴇʀ :** [ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ](tg://user?id={OWNER_ID})
   
   » **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
   
