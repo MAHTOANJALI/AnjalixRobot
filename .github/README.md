@@ -121,6 +121,6 @@ async def some_function(_, message):
 
 ━━━━━━━━━━━━━━━━━━━━
 ### ㅤㅤㅤㅤᴄʀᴇᴅɪᴛs 
- [ Aʟᴏɴᴇ ](https://t.me/QUEENx_GOD)
+ [ ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ ](https://t.me/QUEENx_GOD)
 
 ━━━━━━━━━━━━━━━━━━━━
