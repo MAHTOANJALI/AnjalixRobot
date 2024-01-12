@@ -1,6 +1,6 @@
 <h1 align="center">ᴀɴᴊᴀʟɪ ʀᴏʙᴏᴛ</h1>
 <p align="center">
-  <img src="https://github.com/MAHTOANJALI/AnjalixRobot/blob/main/AnjalixRobot/resources/alone.jpg">
+  <img src="https://github.com/MAHTOANJALI/AnjalixRobot/blob/main/AnjalixRobot/resources/ᴀɴᴊᴀʟɪ.jpg">
 </p>
 <p align="center">
 <a href="https://github.com/MAHTOANJALI/AnjalixRobot/stargazers"><img src="https://img.shields.io/github/stars/MAHTOANJALI/AnjalixRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -14,7 +14,7 @@
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
-<h2 align="center">Aʟᴏɴᴇ Rᴏʙᴏᴛ </h2>
+<h2 align="center">ᴀɴᴊᴀʟɪ ʀᴏʙᴏᴛ </h2>
 
 <h4>ɪ ᴀᴍ ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs <a href="https://t.me/AnjalixRobot">ᴀɴᴊᴀʟɪ ʀᴏʙᴏᴛ</a>
 ᴛʜɪs ɪs ᴀ ᴅᴇᴍᴏ ʙᴏᴛ <br> ɪ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ нσω ʟᴏɴɢᴇʀ ɪ'ʟʟ вε ʜᴏsᴛɪɴɢ ɪᴛ​...</h4>
